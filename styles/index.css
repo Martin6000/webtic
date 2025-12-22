@@ -3,8 +3,9 @@ body {
   color: rgb(255, 255, 255);
 }
 h2 {
-  font-size: 28px;
+  font-size: 56px;
 }
+
 h1.textbackground {
   font-size: 200px;
   text-align: center;
@@ -13,6 +14,23 @@ p.textfront {
   font-size: 20px;
   text-align: center;
 }
+
+.puntoprimero {
+  text-align: left;
+}
+.puntosegundo {
+  text-align: left;
+}
+.puntotercero {
+  text-align: left;
+}
+.puntocuarto {
+  text-align: left;
+}
+.puntoquinto {
+  text-align: left;
+}
+
 .eniacimage {
   width: 200px;
   height: 200px;
