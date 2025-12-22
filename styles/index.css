@@ -26,6 +26,7 @@ p.textfront {
   left: 0;
   z-index: 2;
   color: red;
+  text-align: center;
 }
 .eniacimage {
   width: 1400px;
