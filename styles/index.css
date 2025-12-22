@@ -9,7 +9,7 @@ p {
 .titlecontent {
   position: relative;
 }
-.textbackground {
+p.textbackground {
   position: absolute;
   font-size: 80px;
   top: 0;
@@ -17,7 +17,7 @@ p {
   z-index: 1;
   color: gray;
 }
-.textfront {
+p.textfront {
   position: absolute;
   top: 0;
   font-size: 15px;
