@@ -18,7 +18,8 @@ p.textbackground {
   top: 0;
   left: 0;
   z-index: 1;
-  color: gray;
+  color: white;
+  text-align: center;
 }
 p.textfront {
   position: absolute;
