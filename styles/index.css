@@ -1,8 +1,17 @@
+h2 {
+  font-size: 28px;
+  text-align: center;
+}
+p {
+  font-size: 14px;
+  text-align: center;
+}
 .titlecontent {
   position: relative;
 }
 .textbackground {
   position: absolute;
+  font-size: 80px;
   top: 0;
   left: 0;
   z-index: 1;
@@ -11,17 +20,10 @@
 .textfront {
   position: absolute;
   top: 0;
+  font-size: 15px;
   left: 0;
   z-index: 2; /* Mayor = más arriba */
   color: red;
-}
-h2 {
-  font-size: 28px;
-  text-align: center;
-}
-p {
-  font-size: 14px;
-  text-align: center;
 }
 .eniacimage {
   width: 1400px;
