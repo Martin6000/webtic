@@ -8,15 +8,21 @@ h2 {
 p {
   font-size: 20px;
 }
+
 h1.textbackground {
   font-size: 200px;
   text-align: center;
+  margin-top: 35px;
+  margin-bottom: 5px;
 }
 p.textfront {
   font-size: 30px;
   text-align: center;
 }
 
+.puntoinicio {
+ margin-top: 150px;
+}
 .puntoprimero {
   text-align: left;
   margin-left: 10%;
