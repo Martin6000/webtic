@@ -42,7 +42,9 @@ p.puntoprimero {
   flex: 1;
 }
 p.puntosegundo {
-  text-align: left;
+  text-align: center;
+  margin-left: 25%;
+  margin-right: 25%;
 }
 p.puntotercero {
   text-align: left;
