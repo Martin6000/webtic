@@ -57,3 +57,8 @@ function imagenClickibm(event) {
 }
 appleImage.addEventListener("click", imagenClickapple);
 ibmImage.addEventListener("click", imagenClickibm);
+
+let nombre = prompt("Introducir usuario");
+    if (nombre) {
+         document.getElementById("saludo").textContent = usuariosaludo;
+    }
