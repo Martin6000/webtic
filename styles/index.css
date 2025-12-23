@@ -32,6 +32,22 @@ p.textfrontautor {
   font-size: 16px;
   text-align: center;
 }
+.butondown {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 2px solid white;
+    background-color: transparent;
+    color: white;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+.butondown:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
 
 h2.puntoinicio {
   margin-left: 25%;
