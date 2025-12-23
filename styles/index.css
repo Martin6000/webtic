@@ -47,6 +47,11 @@ p.puntoprimero {
   text-align: left;
   flex: 1;
 }
+p.puntoprimerotwo {
+  text-align: left;
+  margin-left: 25%;
+  margin-right: 25%;
+}
 p.puntosegundo {
   text-align: left;
   margin-left: 25%;
