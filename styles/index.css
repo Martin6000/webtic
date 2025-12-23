@@ -45,8 +45,7 @@ p.puntoinicio {
 }
 p.puntoprimero {
   text-align: left;
-  margin-left: 25%;
-  margin-right: 25%;
+  flex: 1;
 }
 p.puntosegundo {
   text-align: left;
@@ -69,7 +68,13 @@ p.puntoquinto {
   margin-right: 25%;
 }
 
+.eniac-container {
+ display: flex;
+  gap: 2rem;
+  margin-left: 12%;
+  align-items: center;
+}
 .eniacimage {
   width: 600px;
-  height: 600px;
+  height: auto;
 }
