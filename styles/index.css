@@ -123,7 +123,9 @@ p.puntoquinto {
 .transistorcenter {
   text-align: center;
 }
-.appleimage,
-.ibmimage {
+.appleimage:hover,
+.ibmimage:hover {
     cursor: pointer;
+    transform: scale(1.05);
+    transition: transform 0.2s ease;
 }
