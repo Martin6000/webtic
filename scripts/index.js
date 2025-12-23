@@ -13,9 +13,10 @@ const boton = document.querySelector(".butondown");
 let t = 0;
 
 function rebote() {
-    const y = Math.sin(t) * 5;
+    const amplitud = 10;
+    const y = Math.sin(t) * amplitud; 
     boton.style.transform = `translateY(${-y}px)`;
-    t += 0.1;
+    t += 0.03;
     requestAnimationFrame(rebote);
 }
 
