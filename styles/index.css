@@ -49,8 +49,6 @@ p.puntoprimero {
 }
 p.puntoprimerotwo {
   text-align: left;
-  margin-left: 25%;
-  margin-right: 25%;
 }
 p.puntosegundo {
   text-align: left;
@@ -81,4 +79,5 @@ p.puntoquinto {
 .eniacimage {
   width: 600px;
   height: auto;
+  margin-left: 25%;
 }
