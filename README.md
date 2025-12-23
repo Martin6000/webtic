@@ -9,4 +9,5 @@ Además de la estructura en **HTML** y el diseño con **CSS**, la página tambi�
 - **Saludo personalizado**: al inicio, la página pregunta al usuario su nombre, el cual modifica un texto en la parte del título.
 - **Imágenes interactivas**: las imágenes del **Apple II** y el **IBM PC** pueden hacer clic para ser sustituidas por las del **Apple I** y el **Commodore 64**, respectivamente, y viceversa, volviendo a las imágenes originales.
 
-**Enlace a la página web:** [Web Historia de la Informática](https://martin6000.github.io/Web-historia-de-la-informatica-TIC.github.io/)
+**Enlace a la página web:** [Web Historia de la Informática](<a href="https://martin6000.github.io/Web-historia-de-la-informatica-TIC.github.io/" target="_blank" rel="noopener noreferrer">
+  Web Historia de la Informática</a>)
