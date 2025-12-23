@@ -76,7 +76,8 @@ p.puntoquinto {
 .eniac-container {
  display: flex;
   gap: 2rem;
-  margin-left: 12%;
+  margin-left: 25%;
+  margin-right: 25%;
   align-items: center;
 }
 .eniacimage {
