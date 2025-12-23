@@ -32,7 +32,7 @@ p.textfrontautor {
   font-size: 16px;
   text-align: center;
 }
-.butondown, .butondown2 {
+.butondown {
     display: inline-block;
     justify-content: center;
     align-items: center;
@@ -45,7 +45,7 @@ p.textfrontautor {
     cursor: pointer;
     transition: all 0.2s ease;
 }
-.butondown:hover, .butondown2 {
+.butondown:hover{
     background-color: rgba(255, 255, 255, 0.1);
 }
 
