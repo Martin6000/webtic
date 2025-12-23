@@ -9,7 +9,7 @@ function actualizarBarra() {
 
 window.addEventListener("scroll", actualizarBarra);
 
-const boton = document.querySelector("butondown");
+const boton = document.querySelector(".butondown");
 let direction = 1;
 let position = 0;
 
